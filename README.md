@@ -5,7 +5,6 @@
 - 3 years+ of experience in this field.
 - 📫 How to reach me ...
 - Email: asaddiucse@gmail.com
-- Phone: +8801645882936
 
 <!---
 asaddiucse/asaddiucse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
